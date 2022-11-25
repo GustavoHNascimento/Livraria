@@ -1,0 +1,2 @@
+Fizemos um trabalho sobre uma livraria, utilizamos o framework vue ja integrado na página de comentarios
+no backend uma parte de cadastro de clientes, com formas de editar ou excluir um cliente, adicionar e tirar. 
